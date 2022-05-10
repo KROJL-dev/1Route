@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208917226976",
+    "project_id": "route-48807",
+    "storage_bucket": "route-48807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208917226976:android:b6dabe1b02c44f27e5b785",
+        "android_client_info": {
+          "package_name": "com.diploma1route"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208917226976-fq97vou7lbra2nfk8c94jrqpoi6gu13v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaycZ9IqLMm6h60li8F5gpOYgI9JrwjfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208917226976-fq97vou7lbra2nfk8c94jrqpoi6gu13v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
